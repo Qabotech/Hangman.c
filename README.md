@@ -1,5 +1,10 @@
 # Hangman.c
-Schulproject-2022
+**Projectsjahr: 2022**
+<br>
+**Schulername: Alowla Omar**
+<br>
+**Klasse: Fia10**
+
 <br>
 How to run?
 <br>
