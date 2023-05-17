@@ -5,7 +5,7 @@ How to run?
 <br>
 On windows :
 <br>
-type in your cmd 
+type in your CMD / PS
 <br>
 ``` GCC Hangman.c && a.exe ```
 <br>
