@@ -5,11 +5,15 @@ How to run?
 <br>
 On windows :
 <br>
-type in your cmd ``` GCC Hangman.c && a.exe ```
+type in your cmd 
+<br>
+``` GCC Hangman.c && a.exe ```
 <br>
 On Linux :
 <br>
-type in your Terminal ``` GCC Hangman.c && a.out ```
+type in your Terminal 
+<br>
+``` GCC Hangman.c && a.out ```
 <br>
 Requerments:
 <br>
