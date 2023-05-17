@@ -7,7 +7,7 @@ On windows :
 <br>
 type in your CMD / PS
 <br>
-``` GCC Hangman.c && a.exe ```
+``` GCC Hangman.c && ./a.exe ```
 <br>
 On Linux :
 <br>
