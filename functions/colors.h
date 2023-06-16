@@ -17,5 +17,5 @@ void color(char* color)
     else if (strcmp(color, "white") == 0)
         printf("\033[0;37m"); // White
     else
-        printf("\033[0m"); // Default color (reset)
+        printf("\033[0m"); // (reset)
 }
