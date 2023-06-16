@@ -295,7 +295,6 @@ void game(int *win)
 
 			j = 0;
 			printf("\n");
-			printf("%s", RandomWordP1);
 			scanf("%s", word);
 			checkWord(RandomWordP1, word, hiddenWordP1, &wordCheckP1, &check);
 			if (strchr(hiddenWordP1, '_') == NULL)
@@ -329,7 +328,6 @@ void game(int *win)
 
 			j = 0;
 			printf("\n");
-			printf("%s", RandomWordP2);
 			scanf("%s", word);
 			checkWord(RandomWordP2, word, hiddenWordP2, &wordCheckP2, &check);
 			if (strchr(hiddenWordP2, '_') == NULL)
